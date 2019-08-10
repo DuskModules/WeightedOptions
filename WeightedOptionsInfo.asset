@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: WeightedOptionsInfo
   m_EditorClassIdentifier: 
   _buildIndex: 0
-  _dependencies: []
+  _dependencies:
+  - {fileID: 11400000, guid: 9bc739bbf9bbab144969122e7d221e12, type: 2}
