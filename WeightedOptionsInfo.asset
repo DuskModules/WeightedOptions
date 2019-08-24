@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51c511b357030b347b0d657b55dee79e, type: 3}
   m_Name: WeightedOptionsInfo
   m_EditorClassIdentifier: 
-  _buildIndex: 0
+  _version:
+    major: 0
+    minor: 1
+    patch: 0
   _dependencies:
   - {fileID: 11400000, guid: 9bc739bbf9bbab144969122e7d221e12, type: 2}
